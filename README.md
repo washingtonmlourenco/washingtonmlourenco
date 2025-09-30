@@ -1,5 +1,5 @@
 
-# <img src="https://avatars.githubusercontent.com/u/67602627?v=4" alt="avatar github" style="border-radius: 90%; height: 100px; width:100px;"/> wahingtonmlourenco
+# <img src="https://avatars.githubusercontent.com/u/67602627?v=4" alt="avatar github" style="border-radius: 90%; height: 100px; width:100px;"/> washingtonmlourenco
 
 ## Contate-me:<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/washington-lourenco/)
