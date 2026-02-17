@@ -13,7 +13,13 @@ Olá, Atualmente estou DBA SQLServer, tenho grande experiência na área, tenho 
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=washingtonmlourenco&theme=vue-dark&bg_color=2C3E50&border_color=34495E&show_icons=true&icon_color=ECF0F1&title_color=ECF0F1&text_color=ECF0F1&hide_title=true)<br/>
+<p align="center">
+  <img 
+    width="650"
+    alt="Washington Lourenço GitHub Stats"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/washingtonmlourenco?cardType=level-alternate&theme=vue-dark&preferLogin=false"
+  />
+</p>
 
 
 
