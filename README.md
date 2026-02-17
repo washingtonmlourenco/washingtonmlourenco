@@ -8,7 +8,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/washingtonmlourenco)
 
 
-Olá, Atualmente estou DBA SQLServer, tenho grande experiência na área, tenho conhecimento em ETL, e Cloud mais especificamente em Microsoft Azure. Aproveitem e conheçam meu Répositório de SQLServer no Github e meus artigos no Linkedin! <br/><br/>
+Sou DBA SQL Server com sólida experiência em administração de banco de dados, otimização de performance, troubleshooting e suporte a ambientes críticos. Tenho conhecimento em ETL, PostgreSQL e MongoDB e em soluções de Microsoft, com foco em disponibilidade, desempenho e automação.
+Explore meus scripts, ferramentas e análises no GitHub!<br/>
 
 
 ## Github Stats
