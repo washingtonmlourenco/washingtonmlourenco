@@ -8,8 +8,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/washingtonmlourenco)
 
 
-Sou DBA SQL Server com sólida experiência em administração de banco de dados, otimização de performance, troubleshooting e suporte a ambientes críticos. Tenho conhecimento em ETL, PostgreSQL e MongoDB e em soluções de Microsoft, com foco em disponibilidade, desempenho e automação.
-Explore meus scripts, ferramentas e análises no GitHub!<br/>
+Sou DBA SQL Server com sólida experiência em administração de banco de dados, otimização de performance, troubleshooting e suporte a ambientes críticos.
+Possuo conhecimento em ETL, PostgreSQL e MongoDB, além de atuar com soluções do ecossistema Microsoft, sempre com foco em disponibilidade, desempenho e automação.<p/>
+Aqui você encontrará scripts essenciais para o dia a dia de um DBA, utilizados em ambientes reais de trabalho, além de ferramentas e análises técnicas baseadas em boas práticas e referências públicas da comunidade.<br/>
 
 
 ## Github Stats
