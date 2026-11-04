@@ -37,8 +37,7 @@ Aqui você encontrará scripts essenciais para o dia a dia de um DBA, utilizados
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=washingtonmlourenco&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=washingtonmlourenco&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=washingtonmlourenco&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=washingtonmlourenco&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=washingtonmlourenco&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=washingtonmlourenco&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
