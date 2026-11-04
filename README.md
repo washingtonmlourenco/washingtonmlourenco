@@ -1,19 +1,24 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B42BC&height=200&text=Washington%20M.%20Lourenco&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42" alt="header"/>
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/67602627?v=4" alt="Washington Lourenço" width="160" height="160" style="border-radius: 50%; border: 4px solid #586069;"/>
 
-  <h1>Washington M. Lourenço</h1>
+  <br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=440&lines=DBA+SQL+Server;Cloud+%26+DevOps+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
-  <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/washington-lourenco/)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:washingtonmagelalourenco@gmail.com)
   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:washington-lourenco@outlook.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/washingtonmlourenco)
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=washingtonmlourenco&color=00BFFF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
@@ -29,11 +34,13 @@ Aqui você encontrará scripts essenciais para o dia a dia de um DBA, utilizados
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=washingtonmlourenco&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=washingtonmlourenco&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=washingtonmlourenco&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=washingtonmlourenco&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=washingtonmlourenco&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=washingtonmlourenco&theme=dark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=washingtonmlourenco&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=washingtonmlourenco&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies" />
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=washingtonmlourenco&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -95,8 +102,18 @@ Aqui você encontrará scripts essenciais para o dia a dia de um DBA, utilizados
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/washingtonmlourenco/washingtonmlourenco/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/67602627?v=4" alt="Washington Lourenço" width="100" height="100" style="border-radius: 50%;"/>
   <br/>
   <b>Feito com ❤️ por Washington M. Lourenço 🚀</b>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B42BC&height=100&section=footer" alt="footer"/>
